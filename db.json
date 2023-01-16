@@ -1,9 +1,19 @@
 {
   "perfil": [
     {
-      "nombre": "Christian",
-      "email": "Christian@alura.com",
+      "nombre": "Han Solo",
+      "email": "solohan@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "Floki",
+      "email": "flokigan@gmail.com",
+      "id": "229fa435-40c2-4eee-97b9-b205b600aaa0"
+    },
+    {
+      "nombre": "Hyuga",
+      "email": "hyuga@gmail.com",
+      "id": "ffe5ad51-b162-49da-89fa-8279efa3b4d1"
     }
   ]
 }
